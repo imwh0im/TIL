@@ -5,5 +5,5 @@
 - [HTTP](/http/main.md)
 - [Socket](/socket/main.md)
 - [Database](/database/main.md)
-- [WebAssembly](/webassemply/main.md)
+- [WebAssembly](/webassembly/main.md)
 - [Infra](/infra/main.md)
