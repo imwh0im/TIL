@@ -9,6 +9,6 @@
     - 데이터 전송 순서를 보장합니다.
 
 #### Link
-  - [Transport Layer]()
-  - [OSI 7 Layer]()
+  - [Transport Layer](/protocol/transport-layer.md)
+  - [OSI 7 Layer](/protocol/osi-7-layer.md)
   - [Socket](/protocol/socket.md)

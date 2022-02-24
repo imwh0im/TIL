@@ -6,5 +6,5 @@
   - 주소 지정과 패킷 전송을 담당한다.
 
 #### Link
-  - [Network Layer]()
-  - [OSI 7 Layer]()
+  - [Network Layer](/protocol/network-layer.md)
+  - [OSI 7 Layer](/protocol/osi-7-layer.md)
