@@ -13,7 +13,7 @@
         - Server Certificate
           - Server 의 인증서를 Client 로 전송합니다. 경우에 따라 CA 를 전송하기도 합니다.
         - Server Hello Done
-          - `3` 이 끝나면 wjsthdgkqslek. 
+          - `Server Certificate` 가 끝나면 전송합니다.
         - Client Key Exchange
           - Client 에서 브라우저를 통해 Server 에서 전송 받은 인증서가 유효한지 확인한 후 Client 의 무작위 바이트 문자와 Server 의 무작위 바이트 문자를 조합하여 `pre master secret` 라는 대칭키를 생성합니다. 그리고 인증서의 키를 통해 `pre mater secret` 를 공개키 암호화 후 서버로 전송 합니다.
         - Server 쪽에서는 전송 받은 `pre master secret` 을 비밀키로 복호화 합니다. 이것이 `master secret` 입니다.
