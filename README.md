@@ -6,4 +6,4 @@
 - [Database](/database/main.md)
 - [WebAssembly](/webassembly/main.md)
 - [Infra](/infra/main.md)
-- [Algorithm](/algorithm/)
+- [Algorithm](/algorithm/main.md)
